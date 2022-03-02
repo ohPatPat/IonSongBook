@@ -1,0 +1,7 @@
+{
+  "name": "IonSongBook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
